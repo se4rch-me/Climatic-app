@@ -1,0 +1,2 @@
+# Climatic-app
+aplicación climática.
